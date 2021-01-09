@@ -107,7 +107,7 @@
 
 $('body').tweetHighlighted({
                              
-  node: '<a href="#" class="w-button tweet">Tweet</a>',
+  node: '<a href="#" class="tweet-button tweet">Tweet</a>',
   minLength: 6,
   maxLength: 240 * 2,
   extra: 'https://simpletiger.com/saas-seo-guide',
